@@ -9,5 +9,3 @@ Run the makefile in Sock_UDP then it generate a bin directory. It contains clien
 ### Kernel Module
 Show the parameters that need to run.
 - modinfo <name_of_kernel_module>
-### Application
-Run application with option -h to know all option and way to use.
